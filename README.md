@@ -1,2 +1,2 @@
-# bu dosyyadaki kodlar tamamen bana aittir
+# banka oop
 githuba_ilk_proje
